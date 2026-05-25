@@ -1,4 +1,4 @@
-# TwitterCleaner
+# TwitterCleaner (트위터 청소기 / 트청기 / twitter 掃除機)
 
 ## 한국어
 
